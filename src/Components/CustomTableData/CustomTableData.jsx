@@ -63,7 +63,7 @@ function CustomerTable() {
           className='form-control w-25 d-flex'
         />
         </div>
-      <table className='customerTable bg-white'>
+      <table className='customerTable table-striped bg-white '>
         <thead>
           <tr>
             <th>Customer Name</th>
